@@ -46,10 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ferginin/Ferginin/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">📱 Socials:</h2>
 
 ###
